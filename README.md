@@ -78,4 +78,5 @@ O script foi testado e é compatível com as seguintes distribuições e versõe
 ## 🏃‍♂️ Uso
 
 ```bash
-sudo ./desktop-tuning-manager.sh
+wget https://raw.githubusercontent.com/projetoroot/tuning-desktop/refs/heads/main/desktop-tuning-manager.sh
+sudo bash desktop-tuning-manager.sh
