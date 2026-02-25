@@ -6,6 +6,7 @@
 # Versão: 1.0
 # Veja o link: https://wiki.projetoroot.com.br
 # 2026
+# Primeira versão com alguns bugs na geração do relatório - ideal para aprendizado (Favor avaliar a versão 1.1 ou+)
 ###############################################################################
 
 
