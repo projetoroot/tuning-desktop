@@ -1,6 +1,6 @@
 #!/bin/bash
 ###############################################################################
-# Desktop Tuning Manager - Seletor de Tema v1.0
+# Desktop Tuning Manager - Instalador com seletor de Tema v1.0
 # Autor: Diego Costa (@diegocostaroot) / Projeto Root (youtube.com/projetoroot)
 # Veja o link: https://wiki.projetoroot.com.br
 # 2026
