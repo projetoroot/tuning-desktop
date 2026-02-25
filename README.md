@@ -3,7 +3,7 @@
 **Autor:** Diego Costa (@diegocostaroot)  
 **Canal no youtube:** Projeto Root ([youtube.com/projetoroot](https://www.youtube.com/projetoroot))
 **Wiki:** ([wiki.projetoroot.com.br](https://wiki.projetoroot.com.br))
-**Versão:** 1.0 | **Ano:** 2026  
+**Versão:** 1.1 | **Ano:** 2026  
 
 Gerenciador de perfis de tuning para Linux Desktop com backup, rollback e relatório HTML de diferenças.
 
